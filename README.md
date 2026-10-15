@@ -299,7 +299,6 @@ Os arquivos `package.json` e `package-lock.json` **devem ser versionados**.
 - Cálculo de média aritmética.
 - Estruturação de suítes e casos de teste com Mocha.
 - Asserções com `node:assert` e `assert.deepStrictEqual()`.
-- Aplicação de técnicas de teste de caixa-preta.
 - Definição de dados de entrada e resultados esperados.
 - Documentação e versionamento de um exercício de automação de testes.
 
@@ -318,4 +317,4 @@ QA Engineer | Test Automation Engineer
 
 - **GitHub:** [github.com/kaiquedemucio](https://github.com/kaiquedemucio)
 - **LinkedIn:** [linkedin.com/in/kaiquedemucio](https://www.linkedin.com/in/kaiquedemucio/)
-- **Portfólio:** [kaiquedemucio.github.io](https://kaiquedemucio.github.io/)s
+- **Portfólio:** [kaiquedemucio.github.io](https://kaiquedemucio.github.io/)
