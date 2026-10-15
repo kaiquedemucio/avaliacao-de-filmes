@@ -17,13 +17,14 @@ O projeto conta com **15 casos de teste (CT01 a CT15)**, organizados por técnic
 
 ## 🎯 Objetivos
 
-- Trabalhar com **arrays, objetos, funções, Arrow Functions e estruturas condicionais**.
-- Percorrer coleções com `map()` e somar notas com `reduce()`.
-- Calcular médias aritméticas e aplicar regras de classificação.
-- Desenvolver testes automatizados com **Mocha** e o módulo nativo **`node:assert`**.
-- Aplicar **testes positivos, partição de equivalência, análise de valor-limite e testes de casos excepcionais**.
-- Comparar saídas completas por meio de `assert.deepStrictEqual()`.
-- Organizar um projeto Node.js para versionamento e execução pelo GitHub.
+- Desenvolver a lógica de programação utilizando **JavaScript**, trabalhando com arrays, objetos, funções e Arrow Functions.
+- Utilizar estruturas condicionais (`if`, `else if` e `else`) para implementar regras de negócio.
+- Manipular arrays utilizando os métodos `map()` e `reduce()` para percorrer filmes e calcular a soma das avaliações.
+- Calcular a média aritmética das notas e classificar os filmes conforme os critérios estabelecidos.
+- Desenvolver e executar **testes automatizados com Mocha e Assert nativo do Node.js**.
+- Aplicar técnicas de testes de software, como **testes positivos, testes negativos, partição de equivalência e análise de valor-limite**.
+- Validar os resultados obtidos, comparando os dados retornados pela aplicação com os resultados esperados.
+- Organizar e versionar o projeto utilizando **Git e GitHub**, documentando os cenários de teste e as funcionalidades implementadas.
 
 ## 🛠️ Tecnologias e ferramentas
 
